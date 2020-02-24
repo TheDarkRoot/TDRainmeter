@@ -27,5 +27,5 @@ You are only limited by your imagination and creativity.
 ```
 # Screenshot
 
-[<img src="https://github.com/TheDarkRoot/PNGStore/blob/master/Personal/Screenshots/TDRainmeter%2001.png" width=400>](https://github.com/TheDarkRoot/PNGStore/blob/master/Personal/Screenshots/TDRainmeter%2001.png)
-[<img src="https://github.com/TheDarkRoot/PNGStore/blob/master/Personal/Screenshots/TDRainmeter%2002.png" width=400>](https://github.com/TheDarkRoot/PNGStore/blob/master/Personal/Screenshots/TDRainmeter%2002.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/TDRainmeter%2001.png" width=400>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/TDRainmeter%2001.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/TDRainmeter%2002.png" width=400>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/TDRainmeter%2002.png)
