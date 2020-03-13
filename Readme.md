@@ -10,10 +10,12 @@
 
 
 # Description
+
 - TDRainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
 You are only limited by your imagination and creativity.
 
 # Features
+
 - [x] **Supports Windows platform.**
 - [x] **Shortcuts for easy access.**
 - [x] **It's a fully functional.**
@@ -21,10 +23,13 @@ You are only limited by your imagination and creativity.
 - [x] **You are only limited by your imagination and creativity.**
 
 # Installation
+
+> ***Follow these steps.***
 ```
  # Download the TDRainmeter.
  # Run Rainmeter.exe in the folder.
 ```
+
 # Screenshot
 
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/TDRainmeter%2001.png" width=400>](https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Screenshots/TDRainmeter%2001.png)
