@@ -11,8 +11,9 @@
 
 # Description
 
-- TDRainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers.
-You are only limited by your imagination and creativity.
+- TDRainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. You are only limited by your imagination and creativity.
+- Developer of this software: **[@TheDarkRoot](https://github.com/TheDarkRoot)**
+- Official social media accounts: [@Telegram](https://t.me/TDarkRoot) &bull; [@Instagram](https://instagram.com/TheDarkRoot) &bull; [@Twitter](https://twitter.com/TDarkRoot) &bull; [@Github](https://github.com/TheDarkRoot)
 
 # Features
 
