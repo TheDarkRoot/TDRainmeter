@@ -16,11 +16,11 @@ You are only limited by your imagination and creativity.
 
 # Features
 
-- [x] **Supports Windows platform.**
-- [x] **Shortcuts for easy access.**
-- [x] **It's a fully functional.**
-- [x] **It can be customized up to audio visualizers.**
-- [x] **You are only limited by your imagination and creativity.**
+- [x] Supports Windows platform.
+- [x] Shortcuts for easy access.
+- [x] It's a fully functional.
+- [x] It can be customized up to audio visualizers.
+- [x] You are only limited by your imagination and creativity.
 
 # Installation
 
