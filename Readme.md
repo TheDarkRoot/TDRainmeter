@@ -15,6 +15,9 @@
 - Developer of this software: **[@TheDarkRoot](https://github.com/TheDarkRoot)**
 - Official social media accounts: [@Telegram](https://t.me/TDarkRoot) &bull; [@Instagram](https://instagram.com/TheDarkRoot) &bull; [@Twitter](https://twitter.com/TDarkRoot) &bull; [@Github](https://github.com/TheDarkRoot)
 
+> ***Warning: This project is created only for educational purposes and cannot be used for law violation or personal gain.
+The author of this project is not responsible for any possible harm caused by the materials of this project.***
+
 # Features
 
 - [x] Supports Windows platform.
