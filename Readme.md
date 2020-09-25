@@ -1,4 +1,4 @@
-<p align="center"><a href="https://turkhackteam.org"><img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Banner.gif" width="250"></a></p>
+<p align="center"><a href="https://turkhackteam.org"><img src="https://raw.githubusercontent.com/TheDarkRoot/PNGStore/master/Personal/Banner.gif" width="500"></a></p>
 <h2 align="center"><b>TDRainmeter v4.3.1 (Alpha)</b></h2>
 <h4 align="center">Hacker desktop for Windows (Portable). Created with Rainmeter.</h4>
 </p>
