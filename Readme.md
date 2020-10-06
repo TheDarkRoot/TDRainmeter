@@ -30,8 +30,8 @@ The author of this project is not responsible for any possible harm caused by th
 
 > ***Follow these steps.***
 ```
- # Download the TDRainmeter.
- # Run Rainmeter.exe in the folder.
+ $ Download the TDRainmeter.
+ $ Run Rainmeter.exe in the folder.
 ```
 
 # Screenshot
